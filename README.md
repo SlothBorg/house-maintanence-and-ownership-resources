@@ -47,3 +47,13 @@
 * [r/HomeImprovement](https://www.reddit.com/r/HomeImprovement/wiki/maintenance)
 * [HUD's](https://www.hud.gov/sites/documents/DOC_12334.PDF)
 * [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Sojei1plyptx0-Ck-rLJHRFgAsxQGpE8r2o8SAArUok/edit#gid=1855297214)
+
+### Home Automation
+
+IoT devices that are tied to a cloud service and are not open source will never be allowed in my house, nor can I recommend them.
+
+* [Home Assistant](https://www.home-assistant.io/) - Home automation system 
+* [Node Red](https://nodered.org/) - Home automation system
+* [List of Awesome Home Assistant things](https://project-awesome.org/frenck/awesome-home-assistant)
+* [List of Awesome Node Red things](https://github.com/TotallyInformation/awesome-to-me)
+* [Cloud Free home automation stuff](https://cloudfree.shop/)
