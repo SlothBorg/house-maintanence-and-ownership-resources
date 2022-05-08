@@ -14,6 +14,7 @@
 * [Deanin' It Yourself](https://www.youtube.com/c/DeaninItYourself)
 * [Everyday Home Repairs](https://www.youtube.com/c/EverydayHomeRepairs)
 * [Fix This House](https://www.youtube.com/c/FixThisHouse)
+* [Modustrial Maker](https://www.youtube.com/c/ModustrialMaker/) - Guy rebuilding / renoing an abandonded building into his dream house
 * The manufacture of a given tool or item, e.g. shower pan
 * YouTube is great for searching a problem and watching a bunch of how to videos
 
