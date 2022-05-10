@@ -48,6 +48,7 @@
 * [r/HomeImprovement](https://www.reddit.com/r/HomeImprovement/wiki/maintenance)
 * [HUD's](https://www.hud.gov/sites/documents/DOC_12334.PDF)
 * [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Sojei1plyptx0-Ck-rLJHRFgAsxQGpE8r2o8SAArUok/edit#gid=1855297214)
+* [Art of Manliness](https://www.artofmanliness.com/articles/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
 
 ### Home Automation
 
