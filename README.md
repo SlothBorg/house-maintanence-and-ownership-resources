@@ -9,7 +9,7 @@
 * [Laura Kampf](https://www.youtube.com/c/laurakampf) - espechially [this](https://www.youtube.com/watch?v=cWejwPwiEqU&list=PLLsyCFICnr819K6cWPGm1LUp9xDfhk-HP) playlist on restoring an old house.
 * [Essential Craftsman](https://www.youtube.com/c/essentialcraftsman) - [this](https://www.youtube.com/playlist?list=PLRZePj70B4IwyNn1ABhJWmBPeX1hGhyLi) playlist on building a house is particularly useful / intersting.
 * [Kirsten Dirksen](https://www.youtube.com/user/kirstendirksen) - more about interesting, off grid or sustanable houses
-* [Home RenoVision DIY](https://www.youtube.com/c/HomeRenoVisionDIY)
+* [Home RenoVision DIY](https://www.youtube.com/c/HomeRenoVisionDIY) - There is a lot of mixed feelings about him online, his saftey second attitude and some of the short cuts are big red flag... but some of the content provides a great overview and some good tricks. **TL:DR** Don't use him as your only source.
 * [Roger Wakefield](https://www.youtube.com/c/RogerWakefield) - Plumbing
 * [Appliance Repair Tube](https://www.youtube.com/channel/UC21YZ_stPd5px3bFlgWbdtg)
 * [RepairClinic.com](https://www.youtube.com/channel/UCGIWoFCiw_H5SW4sHWFzQSw)
